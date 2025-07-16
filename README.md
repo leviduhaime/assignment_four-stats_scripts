@@ -17,9 +17,11 @@ Author: Gaël Varoquaux
 assignment_four-stats_scripts/
 ├── notebooks/
 │ └── stats_python.ipynb # Notebook with tutorial walkthrough
+├── .gitignore # Tells Git which files and folders to ignore 
+├── README.md # This file
 ├── environment.yml # Conda environment definition
-├── requirements.txt # Pip-based environment definition
-└── README.md # This file
+└── requirements.txt # Pip-based environment definition
+
 ```
 
 ## Getting Started
