@@ -1,0 +1,9 @@
+name: stats_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - python=3.10
+prefix: /users/PAS2797/duhaime/.conda/envs/stats_env
